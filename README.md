@@ -20,10 +20,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/honeysharma2008/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/honeysharma2008/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/honeysharma2008/LeetCode/tree/master/0709-to-lower-case) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/honeysharma2008/LeetCode/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/honeysharma2008/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
