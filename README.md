@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/honeysharma2008/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/honeysharma2008/LeetCode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/honeysharma2008/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/honeysharma2008/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/honeysharma2008/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/honeysharma2008/LeetCode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/honeysharma2008/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/honeysharma2008/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
